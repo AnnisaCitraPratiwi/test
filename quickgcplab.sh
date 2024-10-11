@@ -28,19 +28,19 @@ mkdir tfinfra
 
 cd tfinfra
 
-wget https://raw.githubusercontent.com/AnnisaCitraPratiwi/test/blob/main/provider.tf
+wget https://raw.githubusercontent.com/AnnisaCitraPratiwi/test/main/provider.tf
 
-wget https://raw.githubusercontent.com/AnnisaCitraPratiwi/test/blob/main/terraform.tfstate
+wget https://raw.githubusercontent.com/AnnisaCitraPratiwi/test/main/terraform.tfstate
 
-wget https://raw.githubusercontent.com/AnnisaCitraPratiwi/test/blob/main/variables.tf
+wget https://raw.githubusercontent.com/AnnisaCitraPratiwi/test/main/variables.tf
 
-wget https://raw.githubusercontent.com/AnnisaCitraPratiwi/test/blob/main/mynetwork.tf
+wget https://raw.githubusercontent.com/AnnisaCitraPratiwi/test/main/mynetwork.tf
 
 mkdir instance
 
 cd instance
 
-wget https://raw.githubusercontent.com/AnnisaCitraPratiwi/test/blob/main/main.tf
+wget https://raw.githubusercontent.com/AnnisaCitraPratiwi/test/main/main.tf
 
 cd ..
 
